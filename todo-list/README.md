@@ -73,3 +73,15 @@ Please check out [LoopBack 4 documentation](https://loopback.io/doc/en/lb4/) to
 understand how you can continue to add features to this application.
 
 [![LoopBack](https://github.com/loopbackio/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
+
+
+Steps I followed:
+1. I followed this tutorial closely https://loopback.io/doc/en/lb4/todo-tutorial.html
+2. Installed Loopback 4 CLI
+3. Created empty app (scaffolding) with "lb4 app"
+4. Created a model for a todo list with "lb4 model" and answered the questions
+5. Created a datasource for a todo list with "lb4 datasource" and answered the questions
+6. Created a data folder and a basic db.json for the todo list with json from the tutorial
+7. Created a repository for a todo list with "lb4 repository" and answered the questions
+8. Created a controller for a todo list with "lb4 controller" and answered the questions
+9. Opened and tested the app
